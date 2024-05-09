@@ -1,0 +1,45 @@
+{
+  "companyName": "Narvesen",
+  "catalogue": [
+    {
+      "name": "cola 1l",
+      "price": 149
+    },
+    {
+      "name": "sprite 1l",
+      "price": 199
+    },
+    {
+      "name": "cola 2l",
+      "price": 200
+    },
+    {
+      "name": "chips",
+      "price": 349
+    },
+    {
+      "name": "hot-dog",
+      "price": 99
+    },
+    {
+      "name": "water 1l",
+      "price": 49
+    },
+    {
+      "name": "energy drink 0.5l",
+      "price": 129
+    },
+    {
+      "name": "apple juice 2l",
+      "price": 199
+    },
+    {
+      "name": "grape juice 1l",
+      "price": 149
+    },
+    {
+      "name": "orange juice 1l",
+      "price": 149
+    }
+  ]
+}
